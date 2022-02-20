@@ -1,2 +1,1 @@
-# web-server
-Reimplementation of TinyWebServer
+Original repo: https://github.com/qinguoyi/TinyWebServer
